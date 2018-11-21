@@ -11,7 +11,6 @@ def alter( str , index ):
     x[index]="0"
 	 
    x = "".join(x)
-   #print (x)
    return x ;
 
 #x="110111"
